@@ -15,8 +15,8 @@ h2.titulo {
     border-style: solid;
     border-color: red;
 }
-img.links {width: 50px;}
-img.carrossel {width: 600px;
+img.links {width: 200px;}
+img.carrossel {width: 1500px;
   border-style: dotted;
   border-color: rgb(255, 17, 0);
 }
